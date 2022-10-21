@@ -1,1 +1,3 @@
 # time_project
+
+this is a project made using javascript features, specifically date and document features of javascript...
